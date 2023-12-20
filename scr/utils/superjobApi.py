@@ -1,7 +1,7 @@
 from dotenv import get_key
 import requests
-from class_ParsingError import ParsingError
-from abs_class import InterfaceApi
+from scr.utils.class_ParsingError import ParsingError
+from scr.utils.abs_class import InterfaceApi
 
 
 class SuperJob(InterfaceApi):

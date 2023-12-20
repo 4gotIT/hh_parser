@@ -1,5 +1,5 @@
 import json
-from class_Vacancy import Vacancy
+from scr.utils.class_Vacancy import Vacancy
 
 
 class Connector:
